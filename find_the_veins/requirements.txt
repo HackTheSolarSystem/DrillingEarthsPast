@@ -1,0 +1,2 @@
+spectral
+python-opencv
