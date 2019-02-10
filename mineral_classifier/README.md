@@ -1,8 +1,6 @@
 # Mineral Classifier
 
-The goal for this section of the hackathon is to attempt to find the "veins" within the acceptable bands provided within the HDR/IMG files.
-
-We will need to represent the different wavelength bands as separate images and attempt through CV to find an acceptable process that can attempt to automate the finding of these "veins".
+The goal for this section is to input an image, and output a directory of all pixels in the image and the similarity of their spectra to each mineral in our library of pure mineral spectra.
 
 ## Pre-requesite
 Install:
